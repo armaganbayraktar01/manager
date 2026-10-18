@@ -6,7 +6,7 @@
                     <h4 class="m-0 fw-bold text-primary"><i class="fas fa-magic me-2"></i> Yeni Modül Oluştur (Generator)</h4>
                 </div>
                 <div class="card-body p-4">
-                    <form action="<?= base_url('admin/generator/store') ?>" method="POST" id="moduleForm">
+                    <form action="<?= base_url('admin/modules/store') ?>" method="POST" id="moduleForm">
                         
                         <div class="row mb-3">
                             <div class="col-md-6">
